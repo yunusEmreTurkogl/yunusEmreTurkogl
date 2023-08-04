@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre TURKOGLU</h1>
+<h1 align="center">Hi 👋,  I'm Yunus Emre TURKOGLU</h1>
 <h3 align="center">A passionate, problem-solver, communicative, and self-motivated data scientist from France</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
