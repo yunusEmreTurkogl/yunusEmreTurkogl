@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Miuul**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Container Systems**
 
 - 👨‍💻 All of my projects are available at [https://yunusemreturkogl.github.io/y/#](https://yunusemreturkogl.github.io/y/#)
 
